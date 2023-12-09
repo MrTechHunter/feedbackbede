@@ -2,7 +2,7 @@
   "name": "feedbackbede",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mrtechhunter.github.io",
+  "homepage": "https://mrtechhunter.github.io/feedbackbede/",
   "dependencies": {
     "gh-pages": "^6.1.0",
     "react": "^18.2.0",
